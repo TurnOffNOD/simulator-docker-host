@@ -1,2 +1,4 @@
 *
+!.gitignore
 !Dockerfile
+!simulator-docker-host-cmdline

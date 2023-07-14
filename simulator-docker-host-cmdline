@@ -1,0 +1,1 @@
+docker run --name simulator-docker --user 1000: --mount type=bind,src=/opt/huge_softs/simulator-Docker,dst=/home/ashes/simulator-docker --mount type=bind,src=/etc/passwd,dst=/etc/passwd --mount type=bind,src=/etc/group,dst=/etc/group -it my-docker-for-simulator
